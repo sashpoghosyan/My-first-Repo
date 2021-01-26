@@ -1,0 +1,1 @@
+const p = document.getElementById('o');
